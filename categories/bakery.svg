@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   mlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 264.583 132.292" version="1.1" id="category"  width="100%" height="100%" preserveAspectRatio="xMinYMid">
+
+  <style
+     id="style815">
+.categoryname {font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.33333397px;font-family:'open sans';-inkscape-font-specification     :'open sans Bold';fill:#ffffff
+}
+
+</style>
+  <defs
+     id="defs815">
+    <linearGradient
+       id="linearGradient_main"
+       x1="18.976"
+       y1="281.766"
+       x2="248.28"
+       y2="211.101"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0.107,-164.712)">
+      <stop
+         style="stop-color:#2196f3;stop-opacity:1"
+         offset="0"
+         id="linearGradient_main_start" />
+      <stop
+         style="stop-color:#2196f3;stop-opacity:.8"
+         offset="1"
+         id="linearGradient_main_end" />
+    </linearGradient>
+  </defs>
+ <path
+     inkscape:connector-curvature="0"
+     d="m 241.09751,59.048295 -1.78838,-1.788379 C 228.83435,47.040612 211.9725,47.040612 201.49771,57.515399 l -2.81031,2.810309 c 0,0 0,0 0,0 l -2.04386,2.04386 c 0,0 0,0 0,0 l -1.78838,1.788379 -7.15351,7.15351 c 0,0 0,0 0,0 l -1.78838,1.788378 c 0,0 0,0 0,0 l -2.04386,2.043861 c 0,0 0,0 0,0 l -3.83224,3.832239 c -9.19737,9.197374 -9.19737,24.270845 0,33.468225 l 5.10965,5.10965 c 2.04386,2.04386 4.85417,3.06579 7.66448,3.06579 2.81031,0 5.62062,-1.02193 7.66448,-3.32127 L 241.353,73.866283 c 2.04386,-2.043861 3.06579,-4.854169 3.06579,-7.664475 -0.25549,-2.299344 -1.27742,-5.109653 -3.32128,-7.153513 z m -54.16231,20.183123 4.85417,7.408995 -7.409,-4.854169 z m 8.94189,-8.941891 4.85417,7.408995 -7.40899,-4.854169 z m 9.19738,-9.197372 4.85417,7.408993 -7.409,-4.854167 z m 32.44629,9.708337 c -0.25549,0 -0.25549,0 0,0 l -41.1327,43.687528 c -2.29935,2.29934 -5.8761,2.29934 -7.91996,0 l -5.10966,-5.10965 C 176.97138,102.9913 176.20493,93.282961 181.0591,85.873966 L 198.94288,97.1152 c 0.51097,0.255483 1.02193,0.510965 1.27742,0.510965 0.76644,0 1.27741,-0.255482 1.78837,-0.766447 0.76645,-0.766448 1.02193,-2.043861 0.25549,-3.065792 l -9.70834,-15.073473 15.07347,9.708339 c 0.51097,0.255482 1.02193,0.510965 1.27741,0.510965 0.76645,0 1.27742,-0.255483 1.78838,-0.766448 0.76645,-0.766448 1.02193,-2.043861 0.25549,-3.065791 l -9.70834,-15.073474 15.07347,9.708339 c 0.51097,0.255483 1.02193,0.510965 1.27741,0.510965 0.76645,0 1.27742,-0.255482 1.78838,-0.766448 0.76645,-0.766447 1.02193,-2.04386 0.25548,-3.065791 L 208.39574,58.792812 c 4.08772,-3.065791 7.91996,-4.087722 12.00768,-4.087722 5.62062,0 10.98575,2.043861 15.32896,6.387065 l 1.78838,1.788379 c 1.02193,1.02193 1.53289,2.554826 1.53289,4.087721 0,1.277411 -0.51096,2.810306 -1.53289,3.832237 z"
+     id="path2-1"
+     style="stroke-width:2.55482602" />
+  <rect
+     style="opacity:1;vector-effect:none;fill:url(#linearGradient_main);fill-opacity:1;stroke:#000000;stroke-width:0.009;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0;paint-order:fill markers stroke"
+     rx="15"
+     y="-0.0040052491"
+     x="0.107"
+     height="132.29201"
+     width="264.58301"
+     id="rect1366"
+     class="rounded-bg" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke-width:3.60947061"
+     d="m 165.81467,42.308431 h 86.6273 v 86.627299 h -86.6273 z"
+     id="path2-7" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke-width:4.1379714"
+     d="m 157.26746,34.014951 h 99.3113 v 99.311309 h -99.3113 z"
+     id="path2" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke-width:3.76636982"
+     d="m 158.88679,38.400656 h 90.39288 v 90.392854 h -90.39288 z"
+     id="path4" />
+  <flowRoot
+     xml:space="preserve"
+     id="flowRoot856"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:0.60000002;font-family:'open sans';-inkscape-font-specification:'open sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     transform="translate(-0.75975018,-165.49216)"><flowRegion
+       id="flowRegion858"
+       style="line-height:1.10000002"><rect
+         id="rect860"
+         width="240.83412"
+         height="117.54895"
+         x="8.9270649"
+         y="172.55876"
+         style="line-height:1.10000002"
+         ry="0" /></flowRegion><flowPara
+       id="flowPara862"
+	   class="categoryname"
+       >Bäckerei</flowPara></flowRoot></svg>

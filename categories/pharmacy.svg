@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   mlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 264.583 132.292" version="1.1" id="category"  width="100%" height="100%" preserveAspectRatio="xMinYMid">
+
+  <style
+     id="style815">
+.categoryname {font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.33333397px;font-family:'open sans';-inkscape-font-specification     :'open sans Bold';fill:#ffffff
+}
+
+</style>
+  <defs
+     id="defs815">
+    <linearGradient
+       id="linearGradient_main"
+       x1="18.976"
+       y1="281.766"
+       x2="248.28"
+       y2="211.101"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0.107,-164.712)">
+      <stop
+         style="stop-color:#f44336;stop-opacity:1"
+         offset="0"
+         id="linearGradient_main_start" />
+      <stop
+         style="stop-color:#f44336;stop-opacity:.8"
+         offset="1"
+         id="linearGradient_main_end" />
+    </linearGradient>
+  </defs>
+ <path
+     inkscape:connector-curvature="0"
+     d="m 241.61355,60.355785 h -9.529 l 4.1148,-11.333738 -8.48226,-3.104145 -5.26982,14.437883 h -45.80419 v 7.218941 l 7.21894,21.656824 -7.21894,21.65683 v 7.21894 h 64.97047 v -7.21894 l -7.21894,-21.65683 7.21894,-21.656824 z M 223.5662,92.841021 h -10.82841 v 10.828419 h -7.21894 V 92.841021 H 194.69044 V 85.62208 h 10.82841 V 74.793667 h 7.21894 V 85.62208 h 10.82841 z"
+     id="path4-1"
+     style="stroke-width:3.60947061" />
+  <rect
+     style="opacity:1;vector-effect:none;fill:url(#linearGradient_main);fill-opacity:1;stroke:#000000;stroke-width:0.009;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0;paint-order:fill markers stroke"
+     rx="15"
+     y="-0.0040052491"
+     x="0.107"
+     height="132.29201"
+     width="264.58301"
+     id="rect1366"
+     class="rounded-bg" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke-width:3.60947061"
+     d="m 165.81467,42.308431 h 86.6273 v 86.627299 h -86.6273 z"
+     id="path2-7" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke-width:4.1379714"
+     d="m 157.26746,34.014951 h 99.3113 v 99.311309 h -99.3113 z"
+     id="path2" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke-width:3.76636982"
+     d="m 158.88679,38.400656 h 90.39288 v 90.392854 h -90.39288 z"
+     id="path4" />
+  <flowRoot
+     xml:space="preserve"
+     id="flowRoot856"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:0.60000002;font-family:'open sans';-inkscape-font-specification:'open sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     transform="translate(-0.75975018,-165.49216)"><flowRegion
+       id="flowRegion858"
+       style="line-height:1.10000002"><rect
+         id="rect860"
+         width="240.83412"
+         height="117.54895"
+         x="8.9270649"
+         y="172.55876"
+         style="line-height:1.10000002"
+         ry="0" /></flowRegion><flowPara
+       id="flowPara862"
+	   class="categoryname"
+       >Apotheke</flowPara></flowRoot></svg>
